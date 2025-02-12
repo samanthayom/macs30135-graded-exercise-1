@@ -1,1 +1,6 @@
-# macs30135-graded-exercise-1
+# MACS 30135 Graded Exercise 1
+By: Samantha Jingyi Yom (CNET ID: samanthayom)
+
+
+## References
+ * Haerpfer, C., Inglehart, R., Moreno, A., Welzel, C., Kizilova, K., Diez-Medrano J., M. Lagos, P. Norris, E. Ponarin & B. Puranen (eds.). 2022. World Values Survey: Round Seven - Country-Pooled Datafile Version 5.0. Madrid, Spain & Vienna, Austria: JD Systems Institute & WVSA Secretariat. doi:10.14281/18241.24
